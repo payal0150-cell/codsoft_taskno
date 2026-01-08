@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #0a1931;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+.features {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.box {
+    background: #f4f4f4;
+    padding: 20px;
+    width: 30%;
+    border-radius: 8px;
+    text-align: center;
+}
+
+footer {
+    background: #0a1931;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
